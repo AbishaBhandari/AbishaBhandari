@@ -1,4 +1,4 @@
-# 👋 hi, I'm Abisha! 
+#  hi, I'm Abisha! 
 
 ## 🎯 About Me
 - ♡ Aspiring AI / Machine Learning Engineer
