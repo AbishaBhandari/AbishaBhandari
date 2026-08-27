@@ -2,7 +2,7 @@
 
 ## 🎯 About Me
 -   ♡ Aspiring AI / Machine Learning Engineer
--   ♡ CS & math tutor
+-   ♡ cs & math tutor
 -   ♡ cs @ waterloo
 
 ## 💫 connect with me!
