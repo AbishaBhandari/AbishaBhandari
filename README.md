@@ -1,9 +1,9 @@
 #  hi, I'm Abisha! 
 
 ## 🎯 About Me
-  ♡ Aspiring AI / Machine Learning Engineer
-  ♡ CS & math tutor
-  ♡ cs @ waterloo
+-   ♡ Aspiring AI / Machine Learning Engineer
+-   ♡ CS & math tutor
+-   ♡ cs @ waterloo
 
 ## 💫 connect with me!
 - 💼 LinkedIn: https://www.linkedin.com/in/abisha-bhandari
